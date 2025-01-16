@@ -1,3 +1,5 @@
+ссылка на задание https://github.com/netology-code/jsaqa-homeworks/blob/main/7-03.md
+
 ![screenshot0](https://github.com/user-attachments/assets/b756774c-2670-42af-a40a-d77257df069e)
 
 ![screenshot1](https://github.com/user-attachments/assets/9cdf2c4c-b36f-4653-81ed-66851b84e458)
